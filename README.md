@@ -20,10 +20,11 @@ I find immense excitement in asking thought-provoking questions, meticulously an
 
 ## Tools in My Arsenal
 - Python (NumPy, Pandas, Matplotlib, Seaborn) 🐍
-- SQL (Microsoft SQL Management Studio) 📊
 - Jupyter Notebook 📓
+- SQL (Microsoft SQL Management Studio, MySQL) 📊
+- PowerBi 📊
 - Tableau 📊
-- Excel 📈
+- Advance Excel 📈
 
 ## Get in Touch
 I'm always eager to connect with fellow data enthusiasts, industry professionals, and like-minded individuals. Feel free to reach out to me through any of these platforms:
