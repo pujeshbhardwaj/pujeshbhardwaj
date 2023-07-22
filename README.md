@@ -28,8 +28,8 @@ I find immense excitement in asking thought-provoking questions, meticulously an
 ## Get in Touch
 I'm always eager to connect with fellow data enthusiasts, industry professionals, and like-minded individuals. Feel free to reach out to me through any of these platforms:
 
-Linkedin: (https://www.linkedin.com/in/pujeshbhardwaj/)
-novyPro: (https://www.novypro.com/profile_projects/pujeshbhardwaj)
-📧 Email: bhardwajpujesh@gmail.com
+- Linkedin: (https://www.linkedin.com/in/pujeshbhardwaj/)  
+- novyPro: (https://www.novypro.com/profile_projects/pujeshbhardwaj)  
+- 📧 Email: bhardwajpujesh@gmail.com  
 
 Let's collaborate, learn, and create a data-driven world together! 🌐🚀
