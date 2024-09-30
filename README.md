@@ -1,5 +1,5 @@
-Hi there! 👋 Welcome to My Data Science Journey! 📊🚀
-About Me
+##Hi there! 👋 Welcome to My Data Science Journey! 📊🚀  
+## About Me  
 "I am a Data Scientist with a deep passion for uncovering valuable insights through advanced analytics and machine learning. With a solid background in data science, I constantly strive to refine my expertise, applying cutting-edge techniques to solve complex challenges and drive impactful results."
 
 Passion for Data Science
