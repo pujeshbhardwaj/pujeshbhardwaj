@@ -9,7 +9,7 @@ Driven by my love for data, I specialize in turning raw datasets into strategic,
 I'm deeply passionate about asking the right questions, exploring data intricacies, and delivering compelling insights through effective storytelling. My drive to solve real-world problems is relentless, and I’m always looking for new ways to leverage data science and machine learning to deliver measurable, transformative results.
 
 ### Data Science Skills
-Data Cleaning and Preprocessing
+- Data Cleaning and Preprocessing
 Exploratory Data Analysis (EDA)
 Hypothesis Testing and Statistical Analysis
 Machine Learning (Supervised and Unsupervised Algorithms)
