@@ -10,32 +10,32 @@ I'm deeply passionate about asking the right questions, exploring data intricaci
 
 ### Data Science Skills
 - Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Hypothesis Testing and Statistical Analysis
-Machine Learning (Supervised and Unsupervised Algorithms)
-Predictive and Prescriptive Analytics
-Data Visualization and Dashboard Creation
-Feature Engineering and Model Optimization
+- Exploratory Data Analysis (EDA)
+- Hypothesis Testing and Statistical Analysis
+- Machine Learning (Supervised and Unsupervised Algorithms)
+- Predictive and Prescriptive Analytics
+- Data Visualization and Dashboard Creation
+- Feature Engineering and Model Optimization
 
 ### Machine Learning Expertise
-Classification and Regression (Random Forest, Gradient Boosting, XGBoost)
-Clustering (K-means, DBSCAN)
-Natural Language Processing (NLP)
-Time Series Analysis and Forecasting
-Model Evaluation and Hyperparameter Tuning
+- Classification and Regression (Random Forest, Gradient Boosting, XGBoost)
+- Clustering (K-means, DBSCAN)
+- Natural Language Processing (NLP)
+- Time Series Analysis and Forecasting
+- Model Evaluation and Hyperparameter Tuning
 
 ### Tools in My Arsenal
-Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn) 🐍
-Jupyter Notebook 📓
-SQL (Microsoft SQL Management Studio, MySQL) 📊
-PowerBI 📊
-Tableau 📊
-Advanced Excel 📈
-GitHub for version control 💻
+- Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn) 🐍
+- Jupyter Notebook 📓
+- SQL (Microsoft SQL Management Studio, MySQL) 📊
+- PowerBI 📊
+- Tableau 📊
+- Advanced Excel 📈
+- GitHub for version control 💻
 
 ### Get in Touch
 I’m always excited to connect with fellow data professionals, researchers, and enthusiasts. Let’s explore opportunities to collaborate, share knowledge, and build a data-driven future together! Reach out to me on:
 
-novyPro: https://www.novypro.com/profile_projects/pujeshbhardwaj
-📧 Email: pujesbhardwaj97@gmail.com
+- novyPro: https://www.novypro.com/profile_projects/pujeshbhardwaj
+- 📧 Email: pujesbhardwaj97@gmail.com
 Let’s drive innovation and success through data! 🌐🚀
